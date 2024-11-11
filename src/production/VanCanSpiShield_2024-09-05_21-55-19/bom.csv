@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C4, C5",0603,4,22pF,C1653
+"C3, C6",0603,2,100nF,C14663
+"J1, J2",PinHeader_1x04_P2.54mm_Vertical,2,Conn_01x04_Pin,
+"R1, R2",0603,2,10K,C25804
+U1,SOIC-18W_7.5x11.6mm_P1.27mm,1,MCP2515-xSO,C12368
+U2,SO16L,1,TSS463C,
+"Y1, Y2",Crystal_SMD_5032-2Pin_5.0x3.2mm,2,8MHz,C115962

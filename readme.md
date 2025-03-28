@@ -5,6 +5,10 @@ This is an SPI "shield" designed for my [PSA VAN-CAN protocol bridge hardware][p
 
 On one side, it has an MCP2515 CAN bus controller, and on the other side, it has a TSS463C VAN bus controller. Both sides contain all the necessary components. Obviously only one side can be used at a time. 
 
+### Warning
+
+⚠️ The TSS463C side has a mistake: The C4, C5 and C6  are connected to MOSI instead of GND. You need to cut the traces and connect them to GND. I will fix this in the next version. The MCP2515 side is correct and doesn't need any modification.
+
 It was designed using KiCad 7.0.6
 
 ### BOM

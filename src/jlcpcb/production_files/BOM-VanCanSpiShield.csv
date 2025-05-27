@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC,Quantity
+8MHz,"Y1,Y2",Crystal_SMD_5032-2Pin_5.0x3.2mm,C115962,2
+MCP2515-xSO,U1,SOIC-18W_7.5x11.6mm_P1.27mm,C12368,1
+100nF,"C3,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663,2
+22pF,"C1,C2,C4,C5",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1653,4
+10K,"R1,R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804,2
+TSS463C,U2,SO16L,,1
+Conn_01x04_Pin,J1,PinHeader_1x04_P2.54mm_Vertical,,1
+Conn_01x04_Pin,J2,PinHeader_1x04_P2.54mm_Vertical,,1

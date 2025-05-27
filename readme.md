@@ -13,6 +13,8 @@ So every revision will have its own branch. They will be in the state as I sent 
 ### Available revisions
 
 - [Rev 1.0][version_10]
+- [Rev 1.1][version_11]
 
 [psavancanbridgehw]: https://github.com/morcibacsi/PSAVanCanBridgeHW
 [version_10]: https://github.com/morcibacsi/VanCanSpiShield/tree/v1.0
+[version_11]: https://github.com/morcibacsi/VanCanSpiShield/tree/v1.1
